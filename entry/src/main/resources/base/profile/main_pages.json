@@ -1,0 +1,14 @@
+{
+  "src": [
+    "pages/Index",
+     "pages/Second",
+    "pages/Sign_In_page",
+    "pages/ChatPage_2",
+    "pages/ChatPage",
+    "pages/Choose",
+    "pages/Third",
+    "pages/Third_ChatPage",
+    "pages/personal",
+    "pages/MorePage"
+  ]
+}

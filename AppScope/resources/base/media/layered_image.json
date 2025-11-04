@@ -1,0 +1,7 @@
+{
+  "layered-image":
+  {
+    "background" : "$media:new_background",
+    "foreground" : "$media:new_foreground"
+  }
+}
