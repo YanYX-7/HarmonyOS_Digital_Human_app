@@ -1,4 +1,4 @@
-数字人APP
+HarmonyOS-数字人APP
 ===========
 部分功能效果图
 -------------
@@ -8,3 +8,6 @@
 <img width="474" height="1002" alt="image" src="https://github.com/user-attachments/assets/ab2d4612-a3fd-4b48-973f-25cb05487c78" />
 <img width="474" height="1008" alt="image" src="https://github.com/user-attachments/assets/e52fc328-b1e1-49a8-9edb-23b60feba8fe" />
 <img width="474" height="1007" alt="image" src="https://github.com/user-attachments/assets/97bcb3b7-b5bb-4ab2-ba8d-1d54db9ea750" />
+
+持续更新中....
+--------------
